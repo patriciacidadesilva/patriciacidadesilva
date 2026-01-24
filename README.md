@@ -23,6 +23,7 @@ conectando tecnologia à geração real de valor.
 
 </div>
 
+
 ---
 
 ## 🧠 O que eu faço na prática
