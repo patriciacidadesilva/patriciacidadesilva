@@ -54,4 +54,7 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 💻 **Código & Projetos**  
 👉 https://github.com/patriciacidadesilva  
 
+📱 **Whatsapp**  
+👉 http://api.whatsapp.com/send?phone=5511978576154
+
 📫 Vamos construir algo relevante com dados e IA.
