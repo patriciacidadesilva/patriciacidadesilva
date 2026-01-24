@@ -58,6 +58,9 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 </div>
 
 
+---
+
+
 ## 🛠️ Skills & Tecnologias
 
 ### 🔧 Engenharia de Dados & Plataformas
@@ -109,6 +112,9 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 ![Communication](https://img.shields.io/badge/Communication%20%26%20Collaboration-2C3E50?style=for-the-badge)
 
 </div>
+
+---
+
 
 ## 📊 GitHub Stats
 
