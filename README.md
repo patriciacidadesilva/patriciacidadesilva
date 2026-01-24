@@ -61,6 +61,19 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 
 ---
 
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patriciacidadesilva)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://credtimedayanalytics.my.canva.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrícia-cidade)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5511978576154)
+
+</div>
+
+--
+
 ## 🛠️ Skills & Tecnologias
 
 ### 🔧 Engenharia de Dados & Plataformas
@@ -111,6 +124,7 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 ![Storytelling](https://img.shields.io/badge/Storytelling%20with%20Data-8E44AD?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication%20%26%20Collaboration-2C3E50?style=for-the-badge)
 
+---
 
 ## 📊 GitHub Stats
 
