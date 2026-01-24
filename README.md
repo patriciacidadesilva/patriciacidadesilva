@@ -46,21 +46,6 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 
 ---
 
-## 🔗 Onde me encontrar
-
-🌐 **Portfólio / Site**  
-👉 https://credtimedayanalytics.my.canva.site  
-
-💻 **Código & Projetos**  
-👉 https://github.com/patriciacidadesilva  
-
-📱 **Whatsapp**  
-👉 http://api.whatsapp.com/send?phone=5511978576154
-
-📫 Vamos construir algo relevante com dados e IA.
-
----
-
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
@@ -124,7 +109,7 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 ![Storytelling](https://img.shields.io/badge/Storytelling%20with%20Data-8E44AD?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication%20%26%20Collaboration-2C3E50?style=for-the-badge)
 
----
+
 
 ## 📊 GitHub Stats
 
