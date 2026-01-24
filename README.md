@@ -58,3 +58,54 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 👉 http://api.whatsapp.com/send?phone=5511978576154
 
 📫 Vamos construir algo relevante com dados e IA.
+
+
+## 🛠️ Skills & Tecnologias
+
+### 🔧 Engenharia de Dados & Plataformas
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+---
+
+### 🐍 Linguagens & Manipulação de Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🤖 IA, Machine Learning & Automação
+![Agentes de IA](https://img.shields.io/badge/AI%20Agents-6F42C1?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+---
+
+### 📊 BI, Analytics & Visualização
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-004B87?style=for-the-badge)
+![Pentaho](https://img.shields.io/badge/Pentaho-005EB8?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2F80ED?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge)
+
+---
+
+### 🧠 Modelagem, Arquitetura & Estratégia
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-34495E?style=for-the-badge)
+![Lakehouse](https://img.shields.io/badge/Lakehouse%20Architecture-1F6FEB?style=for-the-badge)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-59666C?style=for-the-badge)
+![Analytics Skills](https://img.shields.io/badge/Advanced%20Analytics-4CAF50?style=for-the-badge)
+![Data Driven](https://img.shields.io/badge/Data--Driven%20Decision%20Making-1B5E20?style=for-the-badge)
+
+---
+
+### 🎨 UX, Storytelling & Soft Skills
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-FF6F00?style=for-the-badge)
+![Storytelling](https://img.shields.io/badge/Storytelling%20with%20Data-8E44AD?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication%20%26%20Collaboration-2C3E50?style=for-the-badge)
