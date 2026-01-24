@@ -70,21 +70,21 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
----
+
 
 ### 🐍 Linguagens & Manipulação de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+
 
 ### 🤖 IA, Machine Learning & Automação
 ![Agentes de IA](https://img.shields.io/badge/AI%20Agents-6F42C1?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
----
+
 
 ### 📊 BI, Analytics & Visualização
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -94,7 +94,7 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2F80ED?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge)
 
----
+
 
 ### 🧠 Modelagem, Arquitetura & Estratégia
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-34495E?style=for-the-badge)
