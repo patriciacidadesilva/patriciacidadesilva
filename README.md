@@ -103,7 +103,7 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 ![Analytics Skills](https://img.shields.io/badge/Advanced%20Analytics-4CAF50?style=for-the-badge)
 ![Data Driven](https://img.shields.io/badge/Data--Driven%20Decision%20Making-1B5E20?style=for-the-badge)
 
----
+
 
 ### 🎨 UX, Storytelling & Soft Skills
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
