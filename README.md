@@ -57,7 +57,6 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 
 </div>
 
---
 
 ## 🛠️ Skills & Tecnologias
 
@@ -109,7 +108,7 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 ![Storytelling](https://img.shields.io/badge/Storytelling%20with%20Data-8E44AD?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication%20%26%20Collaboration-2C3E50?style=for-the-badge)
 
-
+</div>
 
 ## 📊 GitHub Stats
 
@@ -117,4 +116,3 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=patriciacidadesilva&show_icons=true&theme=radical&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciacidadesilva&layout=compact&theme=radical&hide_border=true" />
 </div>
-
