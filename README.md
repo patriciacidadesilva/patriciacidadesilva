@@ -1,9 +1,6 @@
-<div style="
-  border: 1px solid #d0d7de;
-  border-radius: 12px;
-  padding: 28px;
-  margin-bottom: 40px;
-">
+<table>
+<tr>
+<td>
 
 <h1>Olá! Seja bem-vindo(a) ao meu universo 🚀</h1>
 
@@ -21,7 +18,9 @@ Trabalho fortemente com <strong>Databricks, arquitetura Lakehouse e agentes de I
 conectando tecnologia à geração real de valor.
 </p>
 
-</div>
+</td>
+</tr>
+</table>
 
 
 ---
