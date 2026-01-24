@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu universo 🚀
 
-Sou **Patrícia Cidades**, engenheira de dados com atuação estratégica na interseção entre **Engenharia de Dados em larga escala, automação inteligente e agentes de IA**. Minha missão é transformar dados e IA em **produtos de alto impacto**, eliminando fricção operacional e acelerando decisões de negócio.
+Sou **Patrícia Cidade**, engenheira de dados com atuação estratégica na interseção entre **Engenharia de Dados em larga escala, automação inteligente e agentes de IA**. Minha missão é transformar dados e IA em **produtos de alto impacto**, eliminando fricção operacional e acelerando decisões de negócio.
 
 Minha trajetória é marcada pela construção de soluções **end-to-end**, desde ingestão e modelagem até automações transacionais e sistemas agentivos. Trabalho fortemente com **Databricks, arquitetura Lakehouse e agentes de IA**, conectando tecnologia à geração real de valor.
 
