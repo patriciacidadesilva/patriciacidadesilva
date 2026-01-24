@@ -1,8 +1,27 @@
-# Olá! Seja bem-vindo(a) ao meu universo 🚀
+<div style="
+  border: 1px solid #d0d7de;
+  border-radius: 12px;
+  padding: 28px;
+  margin-bottom: 40px;
+">
 
-Sou **Patrícia Cidade**, engenheira de dados com atuação estratégica na interseção entre **Engenharia de Dados em larga escala, automação inteligente e agentes de IA**. Minha missão é transformar dados e IA em **produtos de alto impacto**, eliminando fricção operacional e acelerando decisões de negócio.
+<h1>Olá! Seja bem-vindo(a) ao meu universo 🚀</h1>
 
-Minha trajetória é marcada pela construção de soluções **end-to-end**, desde ingestão e modelagem até automações transacionais e sistemas agentivos. Trabalho fortemente com **Databricks, arquitetura Lakehouse e agentes de IA**, conectando tecnologia à geração real de valor.
+<p>
+Sou <strong>Patrícia Cidade</strong>, engenheira de dados com atuação estratégica na interseção entre 
+<strong>Engenharia de Dados em larga escala, automação inteligente e agentes de IA</strong>. 
+Minha missão é transformar dados e IA em <strong>produtos de alto impacto</strong>, 
+eliminando fricção operacional e acelerando decisões de negócio.
+</p>
+
+<p>
+Minha trajetória é marcada pela construção de soluções <strong>end-to-end</strong>, 
+desde ingestão e modelagem até automações transacionais e sistemas agentivos. 
+Trabalho fortemente com <strong>Databricks, arquitetura Lakehouse e agentes de IA</strong>, 
+conectando tecnologia à geração real de valor.
+</p>
+
+</div>
 
 ---
 
