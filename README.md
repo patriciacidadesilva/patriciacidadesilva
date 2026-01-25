@@ -1,8 +1,20 @@
 <table>
 <tr>
-<td>
+<td width="35%" align="center">
 
-<h1>Olá! Seja bem-vindo(a) ao meu universo 🚀</h1>
+<img src="<img width="472" height="587" alt="image" src="https://github.com/user-attachments/assets/6c135469-6d0a-4db2-81d1-212954ef7cb8" />
+" width="180"/>
+
+<br><br>
+
+<strong>Patrícia Cidade</strong><br>
+Engenheira de Dados
+
+</td>
+
+<td width="65%">
+
+<h2>Olá! Seja bem-vindo(a) ao meu universo 🚀</h2>
 
 <p>
 Sou <strong>Patrícia Cidade</strong>, engenheira de dados com atuação estratégica na interseção entre 
@@ -21,6 +33,7 @@ conectando tecnologia à geração real de valor.
 </td>
 </tr>
 </table>
+
 
 
 ---
