@@ -2,8 +2,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="<img width="467" height="611" alt="image" src="https://github.com/user-attachments/assets/f548f78f-fb82-484d-8ab6-e248924a63ae" />
-" width="180"/>
+<img src="<img width="467" height="611" alt="image" src="https://github.com/user-attachments/assets/f548f78f-fb82-484d-8ab6-e248924a63ae" />" width="180"/>
 
 <br><br>
 
