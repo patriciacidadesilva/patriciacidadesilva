@@ -2,7 +2,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="<img width="925" height="617" alt="image" src="https://github.com/user-attachments/assets/5308e786-e907-4810-80ee-a1c50f47f0c2" />width="180"/>
+="<img width="925" height="617" alt="image" src="https://github.com/user-attachments/assets/5308e786-e907-4810-80ee-a1c50f47f0c2"
 
 
 <br><br>
