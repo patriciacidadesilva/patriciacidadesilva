@@ -2,15 +2,10 @@
 <tr>
 <td width="35%" align="center">
 
-="<img width="925" height="617" alt="image" src="https://github.com/user-attachments/assets/5308e786-e907-4810-80ee-a1c50f47f0c2"
-
+<img src="<img width="467" height="611" alt="image" src="https://github.com/user-attachments/assets/f548f78f-fb82-484d-8ab6-e248924a63ae" />
+" width="180"/>
 
 <br><br>
-
-<strong>Patrícia Cidade</strong><br>
-Engenheira de Dados
-
-</td>
 
 <td width="65%">
 
