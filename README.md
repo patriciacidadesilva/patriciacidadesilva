@@ -2,7 +2,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/patriciacidadesilva/patriciacidadesilva/logo.png" width="180" />
+<img src="https://raw.githubusercontent.com/patriciacidadesilva/patriciacidadesilva/blob/main/logo.png" width="180" />
 
 <br><br>
 
