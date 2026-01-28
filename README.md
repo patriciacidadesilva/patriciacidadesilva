@@ -11,7 +11,7 @@
 <h2>Olá! Seja bem-vindo(a) ao meu universo 🚀</h2>
 
 <p>
-Sou <strong>Patrícia Cidade</strong>, engenheira de dados com atuação estratégica na interseção entre 
+Sou <strong>Patrícia Cidade</strong>, engenheira  com atuação estratégica na interseção entre 
 <strong>Engenharia de Dados em larga escala, Automação Inteligente e Agentes de IA</strong>. 
 Minha missão é transformar dados e IA em <strong>produtos de alto impacto</strong>, 
 eliminando fricção operacional e acelerando decisões de negócio.
@@ -20,7 +20,7 @@ eliminando fricção operacional e acelerando decisões de negócio.
 <p>
 Minha trajetória é marcada pela construção de soluções <strong>end-to-end</strong>, 
 desde ingestão e modelagem até automações transacionais e sistemas agentivos. 
-Trabalho fortemente com <strong>Databricks, arquitetura Lakehouse e agentes de IA</strong>, 
+Trabalho fortemente com <strong>Databricks, arquitetura Lakehouse e Agentes de IA</strong>, 
 conectando tecnologia à geração real de valor.
 </p>
 
@@ -36,7 +36,7 @@ conectando tecnologia à geração real de valor.
 
 Atuo no desenho, desenvolvimento e orquestração de **pipelines robustos e escaláveis**, utilizando arquitetura **Lakehouse**, integrando fontes como **AWS, SAP S/4HANA, APIs e sistemas legados**. Domino o ecossistema **Databricks**, aplicando **PySpark, SQL Warehouses, Delta Lake** e práticas modernas de **DataOps** para garantir performance, confiabilidade e governança.
 
-Paralelamente, desenvolvo **agentes de IA autônomos**, combinando **n8n, Python, modelos generativos e Google Agent Development Kit (ADK)** para automatizar processos complexos, reduzir custos operacionais e habilitar decisões inteligentes em tempo real.
+Desenvolvo **agentes de IA autônomos**, combinando **n8n, Python, modelos generativos e Google Agent Development Kit (ADK)** para automatizar processos complexos, reduzir custos operacionais e habilitar decisões inteligentes em tempo real.
 
 Minha atuação cobre todo o ciclo de dados: ingestão, tratamento, qualidade, automações inteligentes, integrações avançadas e analytics orientado ao negócio.
 
