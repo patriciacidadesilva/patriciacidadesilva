@@ -12,7 +12,7 @@
 
 <p>
 Sou <strong>Patrícia Cidade</strong>, engenheira de dados com atuação estratégica na interseção entre 
-<strong>Engenharia de Dados em larga escala, automação inteligente e agentes de IA</strong>. 
+<strong>Engenharia de Dados em larga escala, Automação Inteligente e Agentes de IA</strong>. 
 Minha missão é transformar dados e IA em <strong>produtos de alto impacto</strong>, 
 eliminando fricção operacional e acelerando decisões de negócio.
 </p>
