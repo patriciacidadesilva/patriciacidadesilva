@@ -11,17 +11,15 @@
 <h2>Olá! Seja bem-vindo(a) ao meu universo 🚀</h2>
 
 <p>
-Sou <strong>Patrícia Cidade</strong>, engenheira  com atuação estratégica na interseção entre 
-<strong>Engenharia de Dados em larga escala, Automação Inteligente e Agentes de IA</strong>. 
-Minha missão é transformar dados e IA em <strong>produtos de alto impacto</strong>, 
-eliminando fricção operacional e acelerando decisões de negócio.
+Sou <strong>Patrícia Cidade</strong>, engenheira com atuação estratégica na interseção entre
+<strong>Engenharia de IA</strong> e <strong>Engenharia de Dados em larga escala</strong>, com foco em <strong>automações inteligentes</strong>.
+
+Minha missão é transformar <strong>dados e Inteligência Artificial</strong> em <strong>produtos de alto impacto</strong>, reduzindo fricção operacional e acelerando <strong>decisões de negócio orientadas por dados</strong>.
 </p>
 
 <p>
-Minha trajetória é marcada pela construção de soluções <strong>end-to-end</strong>, 
-desde ingestão e modelagem até automações transacionais e sistemas agentivos. 
-Trabalho fortemente com <strong>Databricks, arquitetura Lakehouse e Agentes de IA</strong>, 
-conectando tecnologia à geração real de valor.
+Minha trajetória é marcada pela construção de soluções end-to-end em Engenharia de Dados e Engenharia de IA, abrangendo ingestão, modelagem e pipelines escaláveis, até automações transacionais e sistemas agentivos baseados em IA.
+Atuo fortemente com Databricks, arquitetura Lakehouse e Agentes de IA, conectando dados, inteligência artificial e engenharia à geração real de valor para o negócio.
 </p>
 
 </td>
