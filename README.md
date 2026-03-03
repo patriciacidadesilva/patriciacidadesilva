@@ -33,7 +33,7 @@ Atuo fortemente com Databricks, arquitetura Lakehouse e Agentes de IA, conectand
 
 ## 🧠 O que eu faço na prática
 
-Desenvolvo **agentes de IA autônomos**, combinando **n8n, Python, modelos generativos e Google Agent Development Kit (ADK)** para automatizar processos complexos, reduzir custos operacionais e habilitar decisões inteligentes em tempo real.
+Desenvolvo e Lidero projetos com **agentes de IA autônomos**, combinando **n8n, Python, modelos generativos e Google Agent Development Kit (ADK)** para automatizar processos complexos, reduzir custos operacionais e habilitar decisões inteligentes em tempo real.
 
 Atuo no desenho, desenvolvimento e orquestração de **pipelines robustos e escaláveis**, utilizando arquitetura **Lakehouse**, integrando fontes como **AWS, SAP S/4HANA, APIs e sistemas legados**. Domino o ecossistema **Databricks**, aplicando **PySpark, SQL Warehouses, Delta Lake** e práticas modernas de **DataOps** para garantir performance, confiabilidade e governança.
 
