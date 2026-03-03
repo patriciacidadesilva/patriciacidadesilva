@@ -11,7 +11,7 @@
 <h2>Olá! Seja bem-vindo(a) ao meu universo 🚀</h2>
 
 <p>
-Sou <strong>Patrícia Cidade</strong>, engenheira com atuação estratégica na interseção entre
+Sou <strong>Patrícia Cidade</strong>, engenheira com atuação e liderança estratégica na interseção entre
 <strong>Engenharia de IA</strong> e <strong>Engenharia de Dados em larga escala</strong>, com foco em <strong>automações inteligentes</strong>.
 
 Minha missão é transformar <strong>dados e Inteligência Artificial</strong> em <strong>produtos de alto impacto</strong>, reduzindo fricção operacional e acelerando <strong>decisões de negócio orientadas por dados</strong>.
