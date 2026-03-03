@@ -140,13 +140,6 @@ Meu foco é transformar **engenharia de dados e IA** em **produtos inteligentes*
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciacidadesilva&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/patriciacidadesilva/patriciacidadesilva/output/github-contribution-grid-snake.gif)
